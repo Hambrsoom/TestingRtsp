@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hampic\\source\\repos\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj": {}
+    "C:\\Users\\tlgmz\\Desktop\\TestingRtsp\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hampic\\source\\repos\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj": {
+    "C:\\Users\\tlgmz\\Desktop\\TestingRtsp\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hampic\\source\\repos\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj",
+        "projectUniqueName": "C:\\Users\\tlgmz\\Desktop\\TestingRtsp\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj",
         "projectName": "TestingRTSP",
-        "projectPath": "C:\\Users\\Hampic\\source\\repos\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj",
-        "packagesPath": "C:\\Users\\Hampic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hampic\\source\\repos\\TestingRTSP\\TestingRTSP\\obj\\",
+        "projectPath": "C:\\Users\\tlgmz\\Desktop\\TestingRtsp\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj",
+        "packagesPath": "C:\\Users\\tlgmz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tlgmz\\Desktop\\TestingRtsp\\TestingRTSP\\TestingRTSP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hampic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tlgmz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kFqrs0Rf706cRUrWQZEMeo8QZgydoLlw72J1KdeG4mbAFSISlsOPnSU4KOscN4GHX5oky4A5F0NyzKzMjqsdrA==",
+  "dgSpecHash": "7f2YyKUhYtqtvwTH+32jT5mgDusm1NXvAOlK6J5L3qRSxZ79MXpOXodsjnmSdqjQs+ebrog6hUFHRTG0qZII4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hampic\\source\\repos\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj",
+  "projectFilePath": "C:\\Users\\tlgmz\\Desktop\\TestingRtsp\\TestingRTSP\\TestingRTSP\\TestingRTSP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hampic\\.nuget\\packages\\ffmpeg.autogen\\4.3.1\\ffmpeg.autogen.4.3.1.nupkg.sha512",
-    "C:\\Users\\Hampic\\.nuget\\packages\\ffmpeg.nuget\\1.0.0\\ffmpeg.nuget.1.0.0.nupkg.sha512"
+    "C:\\Users\\tlgmz\\.nuget\\packages\\ffmpeg.autogen\\4.3.1\\ffmpeg.autogen.4.3.1.nupkg.sha512",
+    "C:\\Users\\tlgmz\\.nuget\\packages\\ffmpeg.nuget\\1.0.0\\ffmpeg.nuget.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
