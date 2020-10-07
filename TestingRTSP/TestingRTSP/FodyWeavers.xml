@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
+  <Costura LoadAtModuleInit="true">
+    <PreloadOrder>
+      avutil-56
+      postproc-55
+      swresample-3
+      swscale-5
+      avcodec-58
+      avformat-58
+      avfilter-7
+      avdevice-58
+    </PreloadOrder>
+  </Costura>
+</Weavers>

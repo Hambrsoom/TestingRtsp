@@ -1,0 +1,17 @@
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\FFmpeg.AutoGen.4.3.1.0.Fakes.dll
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\TestingRTSP.exe
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\TestingRTSP.deps.json
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\TestingRTSP.runtimeconfig.json
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\TestingRTSP.runtimeconfig.dev.json
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\TestingRTSP.dll
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\TestingRTSP.pdb
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\FFmpeg.AutoGen.dll
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\bin\x64\Debug\netcoreapp3.1\FFmpeg.AutoGen.4.3.1.0.Fakes.fakesconfig
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.csprojAssemblyReference.cache
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.AssemblyInfoInputs.cache
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.AssemblyInfo.cs
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.csproj.CoreCompileInputs.cache
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.csproj.CopyComplete
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.dll
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.pdb
+C:\Users\Hampic\source\repos\TestingRTSP\TestingRTSP\obj\x64\Debug\netcoreapp3.1\TestingRTSP.genruntimeconfig.cache

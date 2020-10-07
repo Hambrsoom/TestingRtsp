@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestingRTSP": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
